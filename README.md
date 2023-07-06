@@ -29,7 +29,8 @@
 * [Versão do projeto](#-Versão-do-projeto)
 * [Autores](#-autores)
 * [Licença](#-licença)
-* 
+
+
 ## Sobre o Projeto
 
 Olá a todos !!! Bem vindos! 
@@ -366,4 +367,3 @@ Versão do projeto 1.0.0
 ## 📄 Licença
 
 Este projeto é Open Source disponibilizado pelo grupo de alunos da FIAP e pode ser usado livremente, respeitando todas as leis do seu país. Quaisquer dúvidas entre em contato com os autores do projeto.
-
